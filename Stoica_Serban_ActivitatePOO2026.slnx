@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Stoica_Serban_ActivitatePOO2026/Stoica_Serban_ActivitatePOO2026.vcxproj" />
+</Solution>
